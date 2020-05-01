@@ -1,0 +1,2 @@
+space invaders game written in racket programing language
+this was the final project of the course: "How to Code: simple data"

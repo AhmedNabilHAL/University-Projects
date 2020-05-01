@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1576056409 source:c:\users\ahmed nabil\documents\codeblocks\projects\prog_assign_02\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstring>
+	<utility>
+	<iomanip>
+	<fstream>
+	<algorithm>
+	<limits>
+
